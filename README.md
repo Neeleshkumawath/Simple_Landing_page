@@ -1,1 +1,2 @@
-# Simple_Landing_page
+A Simple Landing page 
+To visit click here
